@@ -1,0 +1,16 @@
+name: Mirror to GitLab                                                                                                                                                  
+                                                                                                                                                                        
+on:                                                                                                                                                                     
+  push:                                                                                                                                                                 
+    branches:                                                                                                                                                           
+      - '**'                                                                                                                                                            
+    tags:                                                                                                                                                               
+      - '**'                                                                                                                                                            
+  workflow_dispatch:                                                                                                                                                    
+                                                                                                                                                                        
+jobs:                                                                                                                                                                   
+  mirror:                                                                                                                                                               
+    name: Sync to GitLab                                                                                                                                                
+    uses: fapethedev/workflows/.github/workflows/mirror-to-gitlab.yml@master                                                                                            
+    secrets: inherit                                                                                                                                                    
+                            
