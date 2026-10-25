@@ -1,4 +1,4 @@
-![Hello people,  it’s FAPETHEDEV your favorite FSD & Agent Developer 🫰](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8)
+![Hi, I'm Fapethedev 👋 Full-Stack Engineer & AI Agent Developer ](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8)
 
 ![Profile views](https://komarev.com/ghpvc/?username=fapethedev&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -6,7 +6,7 @@
   <ul align="right" style="list-style: none">
     <summary>
       <h1>
-        Hello people,  it’s FAPETHEDEV your favorite FSD & Agent Developer 🫰
+        Hi, I'm Fapethedev 👋 Full-Stack Engineer & AI Agent Developer
       </h1>
     </summary>
   </ul>
@@ -15,12 +15,13 @@
 **<h3 align="right">Connect with me:</h3>**
 <p align="right"><a href="https://github.com/fapethedev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 8px"></a> <a href="https://www.linkedin.com/in/fapethedev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 8px"></a> <a href="https://www.tiktok.com/@fapethedev" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="28" style="margin-right: 8px"></a> <a href="mailto:mpetrivlin@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 8px"></a></p>
 
-**<h3 align="left">I build and automate digital solutions using autonomous agents with a sharp focus on data flow design, application security, and delivering a clean user experience.</h3>**
+**<h3 align="left">I'm passionate about autonomous workflows and AI Spec-Driven Dev</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **Developing a new e-commerce platform using Medusa and Agent Bloom**
 - 🌱 I'm currently learning: **The future of software development and automation: Agents, MCP, A2A, ACP, ADK**
+- 🔭 Focus & Goals: **Building SaaS/AIaaS products • Hybrid Graph+Vector RAG •
+Pursuing PhD & Teaching** 
 - 💬 Ask me about: **Next.Js, SpringBoot, Mastra, Medusa, xmcp, ollama, BeeAi and modern pioneer stack**
 - ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
 <!-- 📂 Portfolio: **<a href="ddd" target="_blank">ddd</a>** -->
